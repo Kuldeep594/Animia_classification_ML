@@ -44,3 +44,4 @@ seaborn
 matplotlib
 
 Code is present in main.ipyn file and the dataset is present in dataset.csv
+This is binary class classification problem
